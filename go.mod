@@ -1,3 +1,3 @@
-module goping
+module ping
 
 go 1.18
